@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="score">"Score: "</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect_correct_answer_option">"Incorrect (Correct answer: Option "</string>
+    <string name="question">"Question "</string>
+    <string name="animal_quiz">Animal Quiz</string>
+    <string name="a_world_of_food">A world of Food</string>
+    <string name="laugh_and_laugh">laugh and laugh</string>
+    <string name="start_new_quiz">Start Random Quiz</string>
+    <string name="next_btn"><![CDATA[>>]]></string>
+    <string name="previous_btn"><![CDATA[<<]]></string>
+    <string name="back_to_home">BACK TO HOME</string>
+    <string name="quiz_title">Quiz Title</string>
+    <string name="live_score">live score</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
